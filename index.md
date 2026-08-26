@@ -82,6 +82,7 @@ By the end of this course, you will be able to:
 - **Review Sheets** for exams:
   - [Exam 1](https://github.com/jnear/cs3110-data-privacy/blob/master/slides/exam1-review.md)
   - [Exam 2](https://github.com/jnear/cs3110-data-privacy/blob/master/slides/exam2-review.md)
+  - [Final Exam](https://github.com/jnear/cs3110-data-privacy/blob/master/slides/final-exam-review.md)
 
 ## Textbook & Other References
 
@@ -117,10 +118,11 @@ In addition to these, we will reference a number of academic papers throughout t
 
 Your grade for the course will be determined as follows:
 
-- 10 homework assignments (5% each; 50% total)
-- in-class weekly exercises (20% total)
-- midterm exam (10%)
-- final exam (10%)
+- 10 homework assignments (2.5% each; 25% total)
+- in-class weekly exercises (10% total)
+- Exam 1 (10%)
+- Exam 2 (15%)
+- final exam (30%)
 - final project (10%)
 
 Your final grade will be determined by summing the total number of
@@ -162,7 +164,7 @@ points. This percentage is translated into a letter grade as follows:
 
 ### Exams & Quizzes
 
-There will be two exams: a midterm and a final. You will be allowed unlimited notes for each exam (but please don't print a whole book). See the schedule below for the dates.
+There will be three exams: two in-class exams and a final exam. You will be allowed unlimited notes for each exam (but please don't print a whole book). The final exam is cumulative, with emphasis on material taught after Exam 2. See the schedule below for the dates.
 
 ### Homework Assignments and In-class Exercises
 
@@ -267,7 +269,8 @@ Important due dates:
 
 Exam dates:
 
-- Midterm exam: Wednesday, October 7, during class (Lafayette Hall L108)
+- Exam 1: Wednesday, October 7, during class (Lafayette Hall L108)
+- Exam 2: Friday, November 13, during class (Lafayette Hall L108)
 - Final exam: Monday, December 14, 10:30am - 1:15pm (Lafayette Hall L108)
 
 Homework dates:
@@ -301,11 +304,11 @@ Schedule of topics:
 |   10/19/26 | Recent variants of differential privacy                                     | Ch. 8     |
 |   10/26/26 | Exponential mechanism; sparse vector technique                              | Ch. 9, 10 |
 |    11/2/26 | Privacy-preserving machine learning; differentially private SGD             | Ch. 12    |
-|    11/9/26 | Local differential privacy                                                  | Ch. 13    |
+|    11/9/26 | Local differential privacy (no exercise; Exam 2 Friday)                     | Ch. 13    |
 |   11/16/26 | Differentially private synthetic data                                       | Ch. 14    |
 |   11/23/26 | No class (Thanksgiving)                                                     |           |
 |   11/30/26 | Privacy in deep learning; Practical systems for privacy                     |           |
-|    12/7/26 | Open challenges; review (no class Friday - see you at CS Fair!)             |           |
+|    12/7/26 | Open challenges; final exam review (no class Friday - see you at CS Fair!)  |           |
 
 # Accommodations
 

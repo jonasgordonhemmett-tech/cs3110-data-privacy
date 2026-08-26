@@ -1,4 +1,4 @@
-# Exam 1 Topic List (Fall 2025)
+# Exam 1 Topic List (Fall 2026)
 
 # Format
 
@@ -36,9 +36,10 @@
 - L1 / L2 sensitivity of vector-valued functions
 - Sensitivity of various functions (count, sum, mean, histograms)
 
-## (ε, δ)-Differential Privacy
+## Clipping and Histograms
 
-- Definition
-- Gaussian mechanism
-- Advanced composition
-- Advantages and disadvantages (e.g. failure probability)
+- Clipping (methods; information loss vs sensitivity)
+- Adaptive clipping
+- Arguing for correctness
+- Parallel composition
+- Histograms and their sensitivity
