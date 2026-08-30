@@ -68,8 +68,8 @@ By the end of this course, you will be able to:
 
 - **Course textbook** is available [online](https://programming-dp.com) or as a [PDF](https://programming-dp.com/book.pdf)
 - **Brightspace** for the course:
-  - [CS 3110 (undergrad section)](https://brightspace.uvm.edu/d2l/home/130484)
-  - [CS 5110 (graduate section)](https://brightspace.uvm.edu/d2l/home/130503)
+  - [CS 3110 (undergrad section)](https://brightspace.uvm.edu/d2l/home/172824)
+  - [CS 5110 (graduate section)](https://brightspace.uvm.edu/d2l/home/172833)
 - **Course Github Repo** [is available here](https://github.com/jnear/cs3110-data-privacy)
 - **Weekly exercises**
   - [Download exercises here](https://github.com/jnear/cs3110-data-privacy/tree/master/exercises)
@@ -77,7 +77,6 @@ By the end of this course, you will be able to:
 - **Homework assignments** 
   - [Download notebooks here](https://github.com/jnear/cs3110-data-privacy/tree/master/homework)
   - Turn in notebook files on Brightspace
-- **Discussions** will take place on MS Teams
 - **Slides** from lecture are available [here](https://github.com/jnear/cs3110-data-privacy/tree/master/slides)
 - **Review Sheets** for exams:
   - [Exam 1](https://github.com/jnear/cs3110-data-privacy/blob/master/slides/exam1-review.md)
@@ -257,6 +256,7 @@ Click [here](https://jnear.github.io/cs3110-data-privacy/projects) for more comp
 
 Note that class will **not** be held on the following dates:
 
+- Friday, September 4
 - Monday, September 7 (Labor Day)
 - Friday, October 9 (Fall Recess)
 - November 23-27 (Thanksgiving)
@@ -277,38 +277,38 @@ Homework dates:
 
 |                                                                                              Item | Due Date |
 |--------------------------------------------------------------------------------------------------:|----------|
-|   [Homework 1](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_1.ipynb) | 9/15/26  |
-|   [Homework 2](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_2.ipynb) | 9/22/26  |
-|   [Homework 3](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_3.ipynb) | 9/29/26  |
-|   [Homework 4](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_4.ipynb) | 10/6/26  |
+|   [Homework 1](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_1.ipynb) | 9/8/26   |
+|   [Homework 2](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_2.ipynb) | 9/15/26  |
+|   [Homework 3](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_3.ipynb) | 9/22/26  |
+|   [Homework 4](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_4.ipynb) | 9/29/26  |
 |   [Homework 5](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_5.ipynb) | 10/13/26 |
 |   [Homework 6](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_6.ipynb) | 10/20/26 |
 |   [Homework 7](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_7.ipynb) | 10/27/26 |
 |   [Homework 8](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_8.ipynb) | 11/3/26  |
-|   [Homework 9](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_9.ipynb) | 11/10/26 |
-| [Homework 10](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_10.ipynb) | 11/17/26 |
+|   [Homework 9](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_9.ipynb) | 11/17/26 |
+| [Homework 10](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_10.ipynb) | 12/1/26  |
 |                                                                                 Project proposals | 11/20/26 |
 |                                                        Final project writeup/video/implementation | 12/14/26 |
 
 Schedule of topics:
 
-| Week of... | Topics                                                                      | Reference |
-|-----------:|-----------------------------------------------------------------------------|-----------|
-|    8/31/26 | Intro to data privacy; de-identification; re-identification (no exercise)   | Ch. 1     |
-|     9/7/26 | k-Anonymity and l-Diversity (no class Monday)                               | Ch. 2     |
-|    9/14/26 | Intro to differential privacy; Laplace mechanism                            | Ch. 3     |
-|    9/21/26 | Sensitivity; post-processing; composition & privacy budget; unit of privacy | Ch. 4, 5  |
-|    9/28/26 | Clipping; arguing for correctness; parallel composition; histograms         | Ch. 6     |
-|    10/5/26 | *Intermission.* Review (no exercise; exam Wednesday; no class Friday)       | None      |
-|   10/12/26 | Approximate DP; Advanced composition; Gaussian mechanism; unit of privacy   | Ch. 6     |
-|   10/19/26 | Recent variants of differential privacy                                     | Ch. 8     |
-|   10/26/26 | Exponential mechanism; sparse vector technique                              | Ch. 9, 10 |
-|    11/2/26 | Privacy-preserving machine learning; differentially private SGD             | Ch. 12    |
-|    11/9/26 | Local differential privacy (no exercise; Exam 2 Friday)                     | Ch. 13    |
-|   11/16/26 | Differentially private synthetic data                                       | Ch. 14    |
-|   11/23/26 | No class (Thanksgiving)                                                     |           |
-|   11/30/26 | Privacy in deep learning; Practical systems for privacy                     |           |
-|    12/7/26 | Open challenges; final exam review (no class Friday - see you at CS Fair!)  |           |
+| Week of... | Topics                                                                                     | Reference |
+|-----------:|--------------------------------------------------------------------------------------------|-----------|
+|    8/31/26 | Intro to data privacy; de-identification; re-identification (no exercise; no class Friday) | Ch. 1     |
+|     9/7/26 | k-Anonymity and l-Diversity (no class Monday)                                              | Ch. 2     |
+|    9/14/26 | Intro to differential privacy; Laplace mechanism                                           | Ch. 3     |
+|    9/21/26 | Sensitivity; post-processing; composition & privacy budget; unit of privacy                | Ch. 4, 5  |
+|    9/28/26 | Clipping; arguing for correctness; parallel composition; histograms                        | Ch. 6     |
+|    10/5/26 | Review Monday, exam Wednesday (no exercise; no class Friday)                               | None      |
+|   10/12/26 | Approximate DP; Advanced composition; Gaussian mechanism; unit of privacy                  | Ch. 6     |
+|   10/19/26 | Recent variants of differential privacy                                                    | Ch. 8     |
+|   10/26/26 | Exponential mechanism; sparse vector technique                                             | Ch. 9, 10 |
+|    11/2/26 | Privacy-preserving machine learning; differentially private SGD                            | Ch. 12    |
+|    11/9/26 | Local differential privacy, exam Friday                                                    | Ch. 13    |
+|   11/16/26 | Differentially private synthetic data                                                      | Ch. 14    |
+|   11/23/26 | No class (Thanksgiving)                                                                    |           |
+|   11/30/26 | Privacy in deep learning; Practical systems for privacy                                    |           |
+|    12/7/26 | Open challenges; final exam review (no exercise; no class Friday - see you at CS Fair!)    |           |
 
 # Accommodations
 
