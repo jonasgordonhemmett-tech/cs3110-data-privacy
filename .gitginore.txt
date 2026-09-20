@@ -1,0 +1,1 @@
+.venv/git add .gitignore homework/CS3110_HW_3.ipynb
